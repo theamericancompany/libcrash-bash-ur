@@ -7,8 +7,8 @@
 #    ----------------------------------------------------------------------
 #
 #    This program is free software: you can redistribute it and/or modify
-#    it under the terms of the GNU Affero General Public License as published by
-#    the Free Software Foundation, either version 3 of the License, or
+#    it under the terms of the GNU Affero General Public License as published
+#    by the Free Software Foundation, either version 3 of the License, or
 #    (at your option) any later version.
 #
 #    This program is distributed in the hope that it will be useful,
@@ -72,7 +72,7 @@ if [[ "${_docs}" == "true" ]]; then
 fi
 pkgver="0.0.0.0.0.1.1.1.1.1"
 _commit="ef8a610ec3b53421e5e5b8f1195aef93e3ffe69b"
-pkgrel=13
+pkgrel=14
 _pkgdesc=(
   "A Bash library of GNU"
   "Privacy Guard related"
